@@ -74,7 +74,7 @@ Le développement durable vise à instaurer un meilleur équilibre entre les dim
 
 ### Définition
 
-Le développement durable est un « développement qui répond aux besoins actuels sans compromettre la capacité des générations futures de répondre aux leurs ».  Synonyme de recherche d'un nouvel équilibre entre développement économique, équité sociale et santé écologique. Une activité « durable » se répète sur le long terme. Il faut donc éviter de dégrader ou dépuiser le capital de ressources de manière irréversible.
+Le développement durable est un « développement qui répond aux besoins actuels sans compromettre la capacité des générations futures de répondre aux leurs ».  Synonyme de recherche d'un nouvel équilibre entre développement économique, équité sociale et santé écologique. Une activité « durable » se répète sur le long terme. Il faut donc éviter de dégrader ou d'épuiser le capital de ressources de manière irréversible.
 
 ### Dimensions économiques
 
