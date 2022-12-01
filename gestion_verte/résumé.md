@@ -84,7 +84,7 @@ Le commerce peut être un acteur de développement durable à condition:
 * Que les revenus qui en découlent soit orientés vers l'éducation et la santé et non pas l'enrichissement de quelques uns.
 * Qu'il prenne en compte l'environnement.
 
-Il faut donc que **le développement économique soit mis au service de l'humain** en privilégiant la création d'emploi et le respect des nouvelles règles de travail et en respectant l'environnement.
+Il faut donc que **le développement économique soit mis au service de l'humain** en privilégiant la création d'emploi, le respect des nouvelles règles de travail et en respectant l'environnement.
 
 ### Dimensions sociales
 
